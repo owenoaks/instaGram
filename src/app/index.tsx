@@ -1,6 +1,6 @@
 import { Text } from "react-native";
 import { Redirect } from "expo-router";
-//40:32
+//1:34:38
 export default function Home() {
   return <Redirect href="/(tabs)" />;
 }
